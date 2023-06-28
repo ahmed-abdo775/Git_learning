@@ -1,2 +1,2 @@
 # Git_learning
-learning how to use github
+<h1>My first repo</h1>
